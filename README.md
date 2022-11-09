@@ -1,2 +1,2 @@
 # inside-bars
-Inside bars strategy AE
+Inside bars strategy AE, cTrader, for backtesting.
